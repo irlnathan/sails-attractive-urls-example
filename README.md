@@ -1,0 +1,2 @@
+# slugsville
+### a Sails application
